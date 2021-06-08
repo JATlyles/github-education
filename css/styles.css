@@ -1,0 +1,32 @@
+.item1 {
+    float: left;
+    height: auto;
+    width: 45%;
+    margin-top: 150px;
+  }
+  /* context */
+  .item2 {
+    float: right;
+    text-align: left;
+    width: 50%;
+    height: 50%;
+    margin-top: auto;
+    position: fixed;
+    padding: 175px;
+    justify-content: center;
+  }
+  
+  .about-img{
+  width: 10px;
+  height: 
+  }
+  
+  .container {
+    margin: 20px;
+  }
+
+  .logo{
+    border-image: url(../photos/rmp2.jpg);
+      height: 200px;
+      width: 200px;
+  }
